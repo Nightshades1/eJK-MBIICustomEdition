@@ -14,7 +14,7 @@ Alt tab/Windows key is broken and won't minimize the game, use /minimize console
 + Automatic Average Ping Based Timenudge (Multithreaded), ideal for duelist or gunners that seek victory at the cost of seeing entities choppy.
 + cl_maxpackets limit increased from 1000 to 5000 (unless the server deny it).
 + Disable the annoying flood of voice&gesture commands in your lower chatbox.
-+ r_picmip has been reworked in a way that it now affect only the map textures, try r_picmip 10 and behave like a sniper in open 😂 (funnily eJK implementation was very similar, i guess there wasn't many solution 😂)
++ r_picmip has been reworked in a way that it now affect only the map textures😂 (funnily eJK implementation was very similar, i guess there wasn't many solution 😂)
 + Awesome EternalJK Features and Discord/Steam Integration.
 + All the features bellow (my Addition)
 
