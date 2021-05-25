@@ -2,6 +2,8 @@
 Credits to EternalJK developers for the massive sets of features.
 
 # First Release !
+# Known Issue:
+Alt tab/Windows key is broken and won't minimize the game, use /minimize console command temporary 😢
 
 ## Features
 + Does Not Unlock Cheat Cvar(s).
