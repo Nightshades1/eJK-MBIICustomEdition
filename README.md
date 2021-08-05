@@ -17,7 +17,7 @@ Credits to EternalJK developers for the massive sets of features.
 + All the features bellow (my Addition)
 
 # Upgraded Windows Libs
-EternalJK was somehow a bit outdated but it's okay, i took some minutes to update Libpng,Libjpeg,Zlib,SDL2, jesus linux is easier for that u_u.
+Libpng,Libjpeg,Zlib,SDL2.
 
 # Note
 All EternalJK new Cvars aren't listed here, only my new addition are documented<br>You might need to get used to that engine.
