@@ -1,8 +1,6 @@
 # EternalJK - MBII Custom Edition Is A Full Client-Side Addon ! 
 Credits to EternalJK developers for the massive sets of features.
 
-# Discord Integration (MBII)
-
 ## Features
 + Does Not Unlock Cheat Cvar(s).
 + Set A Custom Model Based On The Class (Open/Semi-Authentic/Duel).
@@ -13,7 +11,6 @@ Credits to EternalJK developers for the massive sets of features.
 + cl_maxpackets limit increased from 1000 to 5000 (unless the server deny it).
 + Disable the annoying flood of voice&gesture commands in your lower chatbox.
 + r_picmip has been reworked in a way that it now affect only the map textures😂 (funnily eJK implementation was very similar, i guess there wasn't many solution 😂)
-+ Awesome EternalJK Features and Discord/Steam Integration.
 + All the features bellow (my Addition)
 
 # Upgraded Windows Libs
