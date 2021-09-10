@@ -1,5 +1,5 @@
 # EternalJK - MBII Custom Edition Is A Full Client-Side Addon ! 
-Credits to EternalJK developers for the massive sets of features.
+Credits to EternalJK developers for the massive sets of features.<br/>
 Credits to SomaZ and all the developers that are working on Rend2, it's actually working but pretty much experimental and bugged on mb2, the graphics and FPS boost is amazing !
 
 ## Features
