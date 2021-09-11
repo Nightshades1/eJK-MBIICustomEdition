@@ -16,6 +16,8 @@ Credits to SomaZ and all the developers that are working on Rend2, it's actually
 # Rend2
 Amazing renderer with improved graphics and insane performance boost (bump mapping, parallax, SSAO, shadows and much more) based on https://github.com/SomaZ/OpenDF2<br>
 Credits to every Rend2 developers that continue into making it work better.
+![image](https://user-images.githubusercontent.com/19496833/132950257-f7f354be-5ba7-4307-840f-f9ae07299a70.png)
+
 
 # Using Rend2
 Start your game and open your console, finally enter:<br>
@@ -25,6 +27,12 @@ If you wish to use the default renderer again then enter:<br>
 
 It is experimental and may have graphical bug/crash on certain map(s), in case you are dueling um_dojo is a recommanded map with no bug(s), you can easly reach 300fps with the graphics at the maximum, glows/shadows included, finally the game using our GPU as intended.<br><br>
 Note: Some rendering cvar(s) from EJK are missing into Rend2 as i haven't added them (smart picmip) and others, anyway you don't need any of that, with that renderer you get insane amount of FPS at maximum graphics in 1080p or more, at some point Rend2 might bring bugfixes to make it work flawlessly on MBII 🤞 let's hope that it'll happen.
+
+# Rend2 Cvars
+|Name|Default Value|Description|
+|----|-----|-----------|
+cg_shadows|1|use cg_shadows 4 for complete player shadow !|
+
 
 # Upgraded Windows Libs
 Libpng,Libjpeg,Zlib,SDL2.
