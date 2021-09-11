@@ -13,6 +13,18 @@ Credits to SomaZ and all the developers that are working on Rend2, it's actually
 + Disable the annoying flood of voice&gesture commands in your lower chatbox.
 + r_picmip has been reworked in a way that it now affect only the map textures😂 (funnily eJK implementation was very similar, i guess there wasn't many solution 😂)
 + All the features bellow (my Addition)
+# Rend2
+Amazing renderer with improved graphics and insane performance boost (bump mapping, parallax, SSAO, shadows and much more) based on https://github.com/SomaZ/OpenDF2<br>
+Credits to every Rend2 developers that continue into making it work better.
+
+# Using Rend2
+Start your game and open your console, finally enter:<br>
+/cl_renderer rd-rend2;vid_restart<br><br>
+If you wish to use the default renderer again then enter:<br>
+/cl_renderer rd-vanilla-mbii;vid_restart<br>
+
+It is experimental and may have graphical bug/crash on certain map(s), in case you are dueling um_dojo is a recommanded map with no bug(s), you can easly reach 300fps with the graphics at the maximum, glows/shadows included, finally the game using our GPU as intended.<br><br>
+Note: Some rendering cvar(s) from EJK are missing into Rend2 as i haven't added them (smart picmip) and others, anyway you don't need any of that, with that renderer you get insane amount of FPS at maximum graphics in 1080p or more, at some point Rend2 might bring bugfixes to make it work flawlessly on MBII 🤞 let's hope that it'll happen.
 
 # Upgraded Windows Libs
 Libpng,Libjpeg,Zlib,SDL2.
