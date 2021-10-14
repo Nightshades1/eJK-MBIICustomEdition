@@ -17,6 +17,8 @@ Credits to SomaZ and all the developers that are working on Rend2, it's actually
 Amazing renderer with improved graphics and insane performance boost (bump mapping, parallax, SSAO, shadows and much more) based on https://github.com/SomaZ/OpenDF2<br>
 Credits to every Rend2 developers that continue into making it work better.<br>
 ![image](https://user-images.githubusercontent.com/19496833/132950257-f7f354be-5ba7-4307-840f-f9ae07299a70.png)
+![image](https://user-images.githubusercontent.com/19496833/137381256-dd45f043-ceb8-48e4-a0ec-03e6ac89506b.png)
+
 
 # Rend2 Video
 Click to open<br>
