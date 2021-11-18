@@ -37,7 +37,7 @@ Note: Some rendering cvar(s) from EJK are missing into Rend2 as i haven't added 
 |Name|Default Value|Description|
 |----|-----|-----------|
 cg_shadows|1|Players Shadow<br>cg_shadows 1=Simple Shadow<br>cg_shadows 4=Projected Player Shadow|
-r_ambientScale|0.6|Set the Ambiant Lightning<br>.
+r_ambientScale|0.6|Set the Ambiant Lightning<br>
 
 
 # Upgraded Windows Libs
