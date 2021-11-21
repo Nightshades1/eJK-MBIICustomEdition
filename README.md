@@ -19,11 +19,6 @@ Credits to every Rend2 developers that continue into making it work better.<br>
 ![image](https://user-images.githubusercontent.com/19496833/132950257-f7f354be-5ba7-4307-840f-f9ae07299a70.png)
 ![image](https://user-images.githubusercontent.com/19496833/137381256-dd45f043-ceb8-48e4-a0ec-03e6ac89506b.png)
 
-
-# Rend2 Video
-Click to open<br>
-[![Click to open](http://img.youtube.com/vi/cHnQSDg_v8Y/0.jpg)](http://www.youtube.com/watch?v=cHnQSDg_v8Y)
-
 # Using Rend2
 Start your game and open your console, finally enter:<br>
 /cl_renderer rd-rend2;vid_restart<br><br>
